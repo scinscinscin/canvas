@@ -1,0 +1,4 @@
+node_modules/
+yarn.lock
+response_data.json
+config.json

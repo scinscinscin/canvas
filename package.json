@@ -1,0 +1,16 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "A terminal tracker for canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lance Gulinao",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "date-fns": "^2.30.0"
+  }
+}
